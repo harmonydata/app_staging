@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/app_staging/static/css/main.2b00cfdf.css",
-    "main.js": "/app_staging/static/js/main.0e46e43b.js",
+    "main.js": "/app_staging/static/js/main.bde31153.js",
     "static/js/655.15bf12d0.chunk.js": "/app_staging/static/js/655.15bf12d0.chunk.js",
     "static/media/pattern.svg": "/app_staging/static/media/pattern.ffc1641cc6caade830a0281312f42e7c.svg",
     "index.html": "/app_staging/index.html",
     "static/media/Logo-04-min.svg": "/app_staging/static/media/Logo-04-min.5497950a12f5546b78dfbcd9db4fbfeb.svg",
     "static/media/file-excel-solid.svg": "/app_staging/static/media/file-excel-solid.4560d16cab25cc4449285ad81ce40860.svg",
     "main.2b00cfdf.css.map": "/app_staging/static/css/main.2b00cfdf.css.map",
-    "main.0e46e43b.js.map": "/app_staging/static/js/main.0e46e43b.js.map",
+    "main.bde31153.js.map": "/app_staging/static/js/main.bde31153.js.map",
     "655.15bf12d0.chunk.js.map": "/app_staging/static/js/655.15bf12d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b00cfdf.css",
-    "static/js/main.0e46e43b.js"
+    "static/js/main.bde31153.js"
   ]
 }
